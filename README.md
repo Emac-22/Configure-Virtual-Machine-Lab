@@ -14,7 +14,6 @@ The objective of this lab was to deploy and configure a Windows Server 2019 Data
 - Applying Azure Disk Encryption to the virtual machine disks.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - Microsoft Azure Portal
 - Azure Bastion
